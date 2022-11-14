@@ -18,3 +18,5 @@ public class Main {
         System.out.println("Данные ФИО сотрудника для заполнения отчета — " + fullNameReplaceYo);
     }
 }
+
+//by Igor
